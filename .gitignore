@@ -27,3 +27,4 @@ src/mpeg2dec
 .vs/
 *.opendb
 *.sdf
+*.VC.db
